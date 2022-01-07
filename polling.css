@@ -1,0 +1,27 @@
+#a{
+    border-radius: 20px;
+    padding: 15px 32px;
+    margin:0px 15px 15px 0px;
+}
+
+#pic1{
+    height: 300px;
+    width: 300px;
+    margin: 0px 15px 15px 0px;
+}
+
+
+
+#b{
+    float: right;
+    border-radius: 20px;
+    padding: 15px 32px;
+    margin: 20px ;
+    
+}
+
+#pic2{
+    float: right;
+    height: 300px;
+    width: 300px;
+}
